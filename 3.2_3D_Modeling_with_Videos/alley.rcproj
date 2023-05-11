@@ -1,0 +1,65 @@
+<RealityCapture version="1.0.3.4987">
+    <certificates>
+    </certificates>
+    <coordinates>
+        <projectCoordinates index="-1"/>
+    </coordinates>
+    <source>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_229.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_230.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_231.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_232.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_233.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_234.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_235.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_236.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_237.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_238.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_239.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_240.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_241.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_242.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_243.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_244.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_245.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_246.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_247.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_248.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_249.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_250.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_251.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_252.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_253.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_254.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_255.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_256.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_257.jpg"/>
+        <input fileName="E:\6RC11\电影\youtube_sketch\output_258.jpg"/>
+    </source>
+    <reconstructions>
+        <component name="Component 0" id="{38BD98A9-14C4-41AA-9F90-1FC447B00258}" classId="{21845778-D8E3-435C-9493-2E39FEE10F29}" fileName="ytb1\sfm0.dat" selectedModel="18" sfmVisible="0"> 
+            <metadata fileName="ytb1\metadata0.dat"/>
+            <model name="Model 1" fileName="ytb1\model0.dat" unwrappedArea="1.0491212270367751e+003" unwrappLargeTriRemThr="10.000000" minimalTexelSize="1.3525024987757206e-002" texturesUtilization="8.8881683349609375e-001" texelSize="1.0839818045496941e-002" chartsGutterSize="2" averageEdgeLength="7.6890330975232318e-002" texturingStyle="2" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="0" cleanMark="2"  />
+            <model name="Model 2" fileName="ytb1\model1.dat" unwrappedArea="0.0000000000000000e+000" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+000" texturesUtilization="0.0000000000000000e+000" texelSize="0.0000000000000000e+000" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+000" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="2147483647" cleanMark="3"  />
+            <model name="Model 3" fileName="ytb1\model2.dat" unwrappedArea="0.0000000000000000e+000" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+000" texturesUtilization="0.0000000000000000e+000" texelSize="0.0000000000000000e+000" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+000" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="2147483647" cleanMark="3"  />
+            <model name="Model 4" fileName="ytb1\model3.dat" unwrappedArea="0.0000000000000000e+000" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+000" texturesUtilization="0.0000000000000000e+000" texelSize="0.0000000000000000e+000" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+000" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="2147483647" cleanMark="3"  />
+            <model name="Model 5" fileName="ytb1\model4.dat" unwrappedArea="0.0000000000000000e+000" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+000" texturesUtilization="0.0000000000000000e+000" texelSize="0.0000000000000000e+000" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+000" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="2147483647" cleanMark="3"  />
+            <model name="Model 6" fileName="ytb1\model5.dat" unwrappedArea="0.0000000000000000e+000" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+000" texturesUtilization="0.0000000000000000e+000" texelSize="0.0000000000000000e+000" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+000" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="2147483647" cleanMark="3"  />
+            <model name="Model 7" fileName="ytb1\model6.dat" unwrappedArea="0.0000000000000000e+000" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+000" texturesUtilization="0.0000000000000000e+000" texelSize="0.0000000000000000e+000" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+000" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="2147483647" cleanMark="3"  />
+            <model name="Model 8" fileName="ytb1\model7.dat" unwrappedArea="0.0000000000000000e+000" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+000" texturesUtilization="0.0000000000000000e+000" texelSize="0.0000000000000000e+000" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+000" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="2147483647" cleanMark="3"  />
+            <model name="Model 9" fileName="ytb1\model8.dat" unwrappedArea="0.0000000000000000e+000" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+000" texturesUtilization="0.0000000000000000e+000" texelSize="0.0000000000000000e+000" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+000" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="2147483647" cleanMark="3"  />
+            <model name="Model 10" fileName="ytb1\model9.dat" unwrappedArea="0.0000000000000000e+000" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+000" texturesUtilization="0.0000000000000000e+000" texelSize="0.0000000000000000e+000" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+000" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="2147483647" cleanMark="3"  />
+            <model name="Model 11" fileName="ytb1\model10.dat" unwrappedArea="0.0000000000000000e+000" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+000" texturesUtilization="0.0000000000000000e+000" texelSize="0.0000000000000000e+000" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+000" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="2147483647" cleanMark="2"  />
+            <model name="Model 12" fileName="ytb1\model11.dat" unwrappedArea="0.0000000000000000e+000" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+000" texturesUtilization="0.0000000000000000e+000" texelSize="0.0000000000000000e+000" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+000" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="2147483647" cleanMark="3"  />
+            <model name="Model 13" fileName="ytb1\model12.dat" unwrappedArea="0.0000000000000000e+000" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+000" texturesUtilization="0.0000000000000000e+000" texelSize="0.0000000000000000e+000" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+000" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="2147483647" cleanMark="3"  />
+            <model name="Model 14" fileName="ytb1\model13.dat" unwrappedArea="0.0000000000000000e+000" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+000" texturesUtilization="0.0000000000000000e+000" texelSize="0.0000000000000000e+000" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+000" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="2147483647" cleanMark="3"  />
+            <model name="Model 15" fileName="ytb1\model14.dat" unwrappedArea="0.0000000000000000e+000" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+000" texturesUtilization="0.0000000000000000e+000" texelSize="0.0000000000000000e+000" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+000" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="2147483647" cleanMark="3"  />
+            <model name="Model 16" fileName="ytb1\model15.dat" unwrappedArea="0.0000000000000000e+000" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+000" texturesUtilization="0.0000000000000000e+000" texelSize="0.0000000000000000e+000" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+000" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="2147483647" cleanMark="3"  />
+            <model name="Model 17" fileName="ytb1\model16.dat" unwrappedArea="0.0000000000000000e+000" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+000" texturesUtilization="0.0000000000000000e+000" texelSize="0.0000000000000000e+000" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+000" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="2147483647" cleanMark="3"  />
+            <model name="Model 18" fileName="ytb1\model17.dat" unwrappedArea="0.0000000000000000e+000" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+000" texturesUtilization="0.0000000000000000e+000" texelSize="0.0000000000000000e+000" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+000" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="2147483647" cleanMark="3"  />
+            <model name="Model 19" fileName="ytb1\model18.dat" unwrappedArea="0.0000000000000000e+000" unwrappLargeTriRemThr="0.000000" minimalTexelSize="0.0000000000000000e+000" texturesUtilization="0.0000000000000000e+000" texelSize="0.0000000000000000e+000" chartsGutterSize="0" averageEdgeLength="0.0000000000000000e+000" texturingStyle="2147483647" minimalAdaptiveTexelSize="0.0000000000000000e+000" maximalAdaptiveTexelSize="0.0000000000000000e+000" unwrappingStyle="2147483647" cleanMark="3"  />
+        </component>
+    </reconstructions>
+    <entities name="entities" fileName="ytb1\entities0.dat"/>
+    <controlpoints fileName="ytb1\controlpoints0.dat"/>
+</RealityCapture>
