@@ -1,0 +1,258 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="KML2GPX.COM" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <name><![CDATA[Location history from 2023-04-27 to 2023-04-27]]></name>
+        <desc><![CDATA[]]></desc>
+                </metadata>
+
+                                                                                
+                <wpt lat="51.539556999999995" lon="-0.125311">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Home (Urbanest)]]></name>
+                    <cmt><![CDATA[学生公寓 from 2023-04-26T18:26:43.562Z to 2023-04-27T10:21:38.424Z. Distance 0m]]></cmt>
+                    <desc><![CDATA[学生公寓 from 2023-04-26T18:26:43.562Z to 2023-04-27T10:21:38.424Z. Distance 0m]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="51.539556999999995" lon="-0.125311">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Home (Urbanest)]]></name>
+                    <cmt><![CDATA[学生公寓 from 2023-04-27T10:26:27.895Z to 2023-04-27T10:32:00.990Z. Distance 0m]]></cmt>
+                    <desc><![CDATA[学生公寓 from 2023-04-27T10:26:27.895Z to 2023-04-27T10:32:00.990Z. Distance 0m]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="51.5245592" lon="-0.1340401">
+                                                            <ele>0</ele>
+                    <name><![CDATA[伦敦大学学院]]></name>
+                    <cmt><![CDATA[大学 from 2023-04-27T10:56:12.567Z to 2023-04-27T15:13:19.717Z. Distance 0m]]></cmt>
+                    <desc><![CDATA[大学 from 2023-04-27T10:56:12.567Z to 2023-04-27T15:13:19.717Z. Distance 0m]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="51.5238763" lon="-0.13768049999999998">
+                                                            <ele>0</ele>
+                    <name><![CDATA[Tesco Express]]></name>
+                    <cmt><![CDATA[超市 from 2023-04-27T15:16:45.488Z to 2023-04-27T15:42:41.123Z. Distance 0m]]></cmt>
+                    <desc><![CDATA[超市 from 2023-04-27T15:16:45.488Z to 2023-04-27T15:42:41.123Z. Distance 0m]]></desc>
+                </wpt>
+                                                                                                                            
+                <wpt lat="51.5218962" lon="-0.12795969999999998">
+                                                            <ele>0</ele>
+                    <name><![CDATA[布卢姆茨伯里]]></name>
+                    <cmt><![CDATA[from 2023-04-27T15:47:42.255Z to 2023-04-27T16:05:43.878Z. Distance 0m]]></cmt>
+                    <desc><![CDATA[from 2023-04-27T15:47:42.255Z to 2023-04-27T16:05:43.878Z. Distance 0m]]></desc>
+                </wpt>
+                                                            
+                                                                                                    
+                <trk>
+                    <name><![CDATA[ Location history from 2023-04-27 to 2023-04-27 _Walking]]></name>
+                    <desc><![CDATA[Walking from 2023-04-27T10:21:38.424Z to 2023-04-27T10:26:27.895Z. Distance 88m]]></desc>
+                    <number>1</number>
+                    <trkseg>
+                                                                                                                                                                                                <trkpt lat="51.539556999999995" lon="-0.125311">
+                                                                                                            <ele>0</ele>
+                                    <name>1</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.539556999999995" lon="-0.125311">
+                                                                                                            <ele>0</ele>
+                                    <name>2</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5396705" lon="-0.1246966">
+                                                                                                            <ele>0</ele>
+                                    <name>3</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.539556999999995" lon="-0.125311">
+                                                                                                            <ele>0</ele>
+                                    <name>4</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.539556999999995" lon="-0.125311">
+                                                                                                            <ele>0</ele>
+                                    <name>5</name>
+                                </trkpt>
+                                                                                                            
+                    </trkseg>
+                </trk>
+                                                                                                                                            
+                <trk>
+                    <name><![CDATA[ Location history from 2023-04-27 to 2023-04-27 _On a bus]]></name>
+                    <desc><![CDATA[On a bus from 2023-04-27T10:32:00.990Z to 2023-04-27T10:56:12.567Z. Distance 2247m]]></desc>
+                    <number>2</number>
+                    <trkseg>
+                                                                                                                                                                                                <trkpt lat="51.539556999999995" lon="-0.125311">
+                                                                                                            <ele>0</ele>
+                                    <name>1</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.539556999999995" lon="-0.125311">
+                                                                                                            <ele>0</ele>
+                                    <name>2</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5391519" lon="-0.1244193">
+                                                                                                            <ele>0</ele>
+                                    <name>3</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5379651" lon="-0.1226275">
+                                                                                                            <ele>0</ele>
+                                    <name>4</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5357035" lon="-0.1222237">
+                                                                                                            <ele>0</ele>
+                                    <name>5</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5315343" lon="-0.1209436">
+                                                                                                            <ele>0</ele>
+                                    <name>6</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5304456" lon="-0.1215282">
+                                                                                                            <ele>0</ele>
+                                    <name>7</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5305238" lon="-0.1223025">
+                                                                                                            <ele>0</ele>
+                                    <name>8</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5304537" lon="-0.1226275">
+                                                                                                            <ele>0</ele>
+                                    <name>9</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5299854" lon="-0.1239152">
+                                                                                                            <ele>0</ele>
+                                    <name>10</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.529668" lon="-0.124652">
+                                                                                                            <ele>0</ele>
+                                    <name>11</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5296401" lon="-0.1256009">
+                                                                                                            <ele>0</ele>
+                                    <name>12</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5287591" lon="-0.1269067">
+                                                                                                            <ele>0</ele>
+                                    <name>13</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5284713" lon="-0.1274791">
+                                                                                                            <ele>0</ele>
+                                    <name>14</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5283153" lon="-0.1287097">
+                                                                                                            <ele>0</ele>
+                                    <name>15</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5277697" lon="-0.1293735">
+                                                                                                            <ele>0</ele>
+                                    <name>16</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.524559200000006" lon="-0.1340401">
+                                                                                                            <ele>0</ele>
+                                    <name>17</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.524559200000006" lon="-0.1340401">
+                                                                                                            <ele>0</ele>
+                                    <name>18</name>
+                                </trkpt>
+                                                                                                            
+                    </trkseg>
+                </trk>
+                                                                                                                                            
+                <trk>
+                    <name><![CDATA[ Location history from 2023-04-27 to 2023-04-27 _Walking]]></name>
+                    <desc><![CDATA[Walking from 2023-04-27T15:13:19.717Z to 2023-04-27T15:16:45.488Z. Distance 462m]]></desc>
+                    <number>3</number>
+                    <trkseg>
+                                                                                                                                                                                                <trkpt lat="51.524559200000006" lon="-0.1340401">
+                                                                                                            <ele>0</ele>
+                                    <name>1</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.524559200000006" lon="-0.1340401">
+                                                                                                            <ele>0</ele>
+                                    <name>2</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5255402" lon="-0.134231">
+                                                                                                            <ele>0</ele>
+                                    <name>3</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5253073" lon="-0.1348666">
+                                                                                                            <ele>0</ele>
+                                    <name>4</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5251099" lon="-0.1352964">
+                                                                                                            <ele>0</ele>
+                                    <name>5</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5247716" lon="-0.1350548">
+                                                                                                            <ele>0</ele>
+                                    <name>6</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5245211" lon="-0.1350585">
+                                                                                                            <ele>0</ele>
+                                    <name>7</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5244479" lon="-0.1353273">
+                                                                                                            <ele>0</ele>
+                                    <name>8</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5243199" lon="-0.1357565">
+                                                                                                            <ele>0</ele>
+                                    <name>9</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5238763" lon="-0.13768049999999998">
+                                                                                                            <ele>0</ele>
+                                    <name>10</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5238763" lon="-0.13768049999999998">
+                                                                                                            <ele>0</ele>
+                                    <name>11</name>
+                                </trkpt>
+                                                                                                            
+                    </trkseg>
+                </trk>
+                                                                                                                                            
+                <trk>
+                    <name><![CDATA[ Location history from 2023-04-27 to 2023-04-27 _Walking]]></name>
+                    <desc><![CDATA[Walking from 2023-04-27T15:42:41.123Z to 2023-04-27T15:47:42.255Z. Distance 595m]]></desc>
+                    <number>4</number>
+                    <trkseg>
+                                                                                                                                                                                                <trkpt lat="51.5238763" lon="-0.13768049999999998">
+                                                                                                            <ele>0</ele>
+                                    <name>1</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5238763" lon="-0.13768049999999998">
+                                                                                                            <ele>0</ele>
+                                    <name>2</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5248863" lon="-0.1378524">
+                                                                                                            <ele>0</ele>
+                                    <name>3</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5256138" lon="-0.1353639">
+                                                                                                            <ele>0</ele>
+                                    <name>4</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5257545" lon="-0.1348486">
+                                                                                                            <ele>0</ele>
+                                    <name>5</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5262315" lon="-0.1345471">
+                                                                                                            <ele>0</ele>
+                                    <name>6</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5264598" lon="-0.133176">
+                                                                                                            <ele>0</ele>
+                                    <name>7</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.5258423" lon="-0.1331765">
+                                                                                                            <ele>0</ele>
+                                    <name>8</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.52584502852691" lon="-0.13274721094231723">
+                                                                                                            <ele>0</ele>
+                                    <name>9</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="51.52584502852691" lon="-0.13274721094231723">
+                                                                                                            <ele>0</ele>
+                                    <name>10</name>
+                                </trkpt>
+                                                                                                            
+                    </trkseg>
+                </trk>
+                                                            
+    
+</gpx>
